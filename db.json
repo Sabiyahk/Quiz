@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "Fname": "sabiya",
+      "Lname": "hk",
+      "Email": "hkshabiya@gmail.com",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "Fname": "Tousif",
+      "Lname": "hk",
+      "Email": "hkt@gmail.com",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "Fname": "hkshab",
+      "Lname": "test",
+      "Email": "hkshafhhhgfbiya@gmail.com",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "Fname": "",
+      "Lname": "",
+      "Email": "hkshaba@gmail.com",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "Fname": "hkshab",
+      "Lname": "hk",
+      "Email": "hksiya@gmail.com",
+      "password": "1234567",
+      "id": 5
+    },
+    {
+      "Fname": "hkshab",
+      "Lname": "hk",
+      "Email": "h@gmail.com",
+      "password": "12",
+      "id": 6
+    },
+    {
+      "Fname": "ss",
+      "Lname": "d",
+      "Email": "hya@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "Fname": "re",
+      "Lname": "fg",
+      "Email": "t@gmail.com",
+      "password": "12",
+      "id": 8
+    }
+  ],
+  "exams": [
+    {
+      "id": 1,
+      "exam_name": "Python Basics",
+      "icon": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
+    },
+    {
+      "id": 2,
+      "exam_name": "Java Basics",
+      "icon": "https://cdn-icons-png.flaticon.com/512/226/226777.png"
+    },
+    {
+      "id": 3,
+      "exam_name": "Java Script Basics",
+      "icon": "https://e7.pngegg.com/pngimages/1007/564/png-clipart-java-script-logo-javascript-web-development-logo-script-text-computer-programming.png"
+    }
+  ],
+  "contents": [
+    {
+      "id": 1,
+      "exam_id": 1,
+      "question": "What is the maximum possible length of an identifier?",
+      "options": [
+        {
+          "option_no": 1,
+          "option": "16",
+          "is_correct":false
+        },
+        {
+          "option_no": 2,
+          "option": "32",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 3,
+          "option": "64",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 4,
+          "option": "None of the above",
+          "is_correct":true
+
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "exam_id": 1,
+      "question": "Who developed the Python language?",
+      "options": [
+        {
+          "option_no": 1,
+          "option": "Zim Den",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 2,
+          "option": "Guido van Rossum",
+          "is_correct":true
+
+        },
+        {
+          "option_no": 3,
+          "option": "Niene Stom",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 4,
+          "option": "Wick van Rossum",
+          "is_correct":false
+
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "exam_id": 2,
+      "question": "Number of primitive data types in Java are?",
+      "options": [
+        {
+          "option_no": 1,
+          "option": "6",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 2,
+          "option": "7",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 3,
+          "option": "8",
+          "is_correct":true
+
+        },
+        {
+          "option_no": 4,
+          "option": "9",
+          "is_correct":false
+
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "exam_id": 2,
+      "question": "Which component is used to compile, debug and execute the java programs?",
+      "options": [
+        {
+          "option_no": 1,
+          "option": "JRE",
+          "is_correct":false
+        },
+        {
+          "option_no": 2,
+          "option": "JIT",
+          "is_correct":false
+
+        },
+        {
+          "option_no": 3,
+          "option": " JDK",
+          "is_correct":true
+
+        },
+        {
+          "option_no": 4,
+          "option": "JVM",
+          "is_correct":false
+
+        }
+      ]
+    }
+  ]
+}
