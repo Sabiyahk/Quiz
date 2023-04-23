@@ -55,6 +55,27 @@
       "Email": "t@gmail.com",
       "password": "12",
       "id": 8
+    },
+    {
+      "Fname": "apoorva",
+      "Lname": "b",
+      "Email": "apoorva@gmail.com",
+      "password": "12345678",
+      "id": 9
+    },
+    {
+      "Fname": "apoorva",
+      "Lname": "b",
+      "Email": "apoorva12@gmail.com",
+      "password": "12345678",
+      "id": 10
+    },
+    {
+      "Fname": "apoorva",
+      "Lname": "b",
+      "Email": "apoorva3@gmail.com",
+      "password": "12345678",
+      "id": 11
     }
   ],
   "exams": [
@@ -83,25 +104,22 @@
         {
           "option_no": 1,
           "option": "16",
-          "is_correct":false
+          "is_correct": false
         },
         {
           "option_no": 2,
           "option": "32",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 3,
           "option": "64",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 4,
           "option": "None of the above",
-          "is_correct":true
-
+          "is_correct": true
         }
       ]
     },
@@ -113,26 +131,22 @@
         {
           "option_no": 1,
           "option": "Zim Den",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 2,
           "option": "Guido van Rossum",
-          "is_correct":true
-
+          "is_correct": true
         },
         {
           "option_no": 3,
           "option": "Niene Stom",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 4,
           "option": "Wick van Rossum",
-          "is_correct":false
-
+          "is_correct": false
         }
       ]
     },
@@ -144,26 +158,22 @@
         {
           "option_no": 1,
           "option": "6",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 2,
           "option": "7",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 3,
           "option": "8",
-          "is_correct":true
-
+          "is_correct": true
         },
         {
           "option_no": 4,
           "option": "9",
-          "is_correct":false
-
+          "is_correct": false
         }
       ]
     },
@@ -175,27 +185,38 @@
         {
           "option_no": 1,
           "option": "JRE",
-          "is_correct":false
+          "is_correct": false
         },
         {
           "option_no": 2,
           "option": "JIT",
-          "is_correct":false
-
+          "is_correct": false
         },
         {
           "option_no": 3,
           "option": " JDK",
-          "is_correct":true
-
+          "is_correct": true
         },
         {
           "option_no": 4,
           "option": "JVM",
-          "is_correct":false
-
+          "is_correct": false
         }
       ]
+    }
+  ],
+  "contact": [
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 1
+    },
+    {
+      "name": "gsfj",
+      "email": "lksnfd@h.cpm",
+      "message": "lksjjf",
+      "id": 2
     }
   ]
 }

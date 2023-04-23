@@ -15,6 +15,9 @@ const Header = () => {
                     <li className="nav-item active">
                         <a className="nav-link" href="#">Prepare </a>
                     </li>
+                    <li className="nav-item active">
+                        <a className="nav-link" href="/ContactForm">Contact US </a>
+                    </li>
                 </ul>
             </div>
             <div className="myform">

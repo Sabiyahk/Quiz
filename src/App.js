@@ -5,6 +5,7 @@ import Login from './components/login'
 import SignUp from './components/signup'
 import Home from './components/home'
 import Exam from './components/Exam/Exam';
+import ContactForm from './components/Contact_Us/ContactForm';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
               <Route path="/sign-up" element={<SignUp />} />
               <Route path="/home" element={<Home />} />
               <Route path="/exams/:exam_id/" element={<Exam />} />
+              <Route path="/ContactForm" element={<ContactForm />} />
             </Routes>
           </div>
         </div>
